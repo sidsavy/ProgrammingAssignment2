@@ -1,6 +1,6 @@
 
 ##Function calculates the inverse of the matrix
-## If the matrix inverse has already been calculated it will instead and find in the cache and return it
+## If the matrix inverse has already been calculated it will instead and find in the cache and return 
 
 makeCacheMatrix <- function(x = matrix()) 
 {
